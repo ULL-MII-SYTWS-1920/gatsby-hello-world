@@ -14,7 +14,7 @@
     "deploy:github": "npm run build && node ./scripts/deploy-github"
   },
   "dependencies": {
-    "gatsby": "^2.17.11",
+    "gatsby": "^4.25.7",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   },
